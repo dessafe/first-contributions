@@ -1,4 +1,5 @@
 # Contributors
+- [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
 - [Utsho de Bravestone](https://github.com/utshodebravestone)
@@ -6,8 +7,10 @@
 KOR EU WEI
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
+- [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
+- [Itay Saban](https://github.com/itaysaban)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
 - [Josh H](https://github.com/GoodGuyHeffy)
@@ -22,7 +25,8 @@ KOR EU WEI
 - [Jacob Turner](https://github.com/unsounddabbit)
 - [Sahadev Bhaganagare](https://github.com/Sahadev18)
 - [sudeepbm](https://github.com/sudeepbm)
--[christian inyekaka](https://github.com/chrisBokotaII)
+- [Tommy](https://github.com/tommypurcell)
+- [christian inyekaka](https://github.com/chrisBokotaII)
 - [[Trustbycode]](https://github.com/trustbycode/)
 - [Trustbycode] (https://github.com/trustbycode/)
 - [Siddant-Tripathi] (https://https://github.com/trisid12/)
@@ -45,6 +49,7 @@ KOR EU WEI
 - [Brian Oktavec] (https://github.com/boktavec)
 - [Tanvi G](https://github.com/Tanvi3103)
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
+- [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
@@ -58,12 +63,14 @@ KOR EU WEI
   [Noviath61] (https://github.com/Noviath61)
   [aayush920](https://github.com/aayush920)
 Mac McHam
+- [Akhil A] (https://github.com/Akhil-A0402)
 - [gaagly] ( termux ke through dusribranch banai hai)
 - [gaagly] (This one is added directly from vscode app_ branch teesri branch)
 - [Efon God'stime](https://github.com/efongodstime)
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
 - [Melinda Cortez](https://github.com/Solita43)
+- [Dominik](https://github.com/dominikstas)
 - [Patricia Dinh](https://github.com/phdinh)
 - [Kosumo] (https://github.com/masumo)
 - [Frederick] (https://github.com/fredsn0tDead)
@@ -343,6 +350,7 @@ Mac McHam
 - [astromerov](https://github.com/astromerov)
 - [Prionage](https://github.com/Prionage/first-contributions)
 - [CL](https://github.com/Radar3759)
+- [Jame Bryan](https://github.com/jame0925)
 - [Ahmed Jameel](https://github.com/ahmedjameel1)
 - [Chintan Rupareliya](https://github.com/chintanrupareliya)
 - [Sourav Singh](https://github.com/hydradocs)
@@ -352,6 +360,7 @@ Mac McHam
 - [Kushan Arora](https://github.com/kushan23)
 - [Balaji Palani](https://github.com/balajimca1410)
 - [Esrael Geremew](https://github.com/esrael-github)
+- [MD Irfan Salim](https://github.com/irfan2577)
 - waiyan
 - [Fernando Barbos](https://github.com/Fernando7181)
 - [Yoel Kraitman](https://github.com/yoelKraitman)
@@ -827,6 +836,7 @@ Mac McHam
 - [Patrick Ha](https://github.com/patrickha55)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
+- [justinloleng](https://github.com/justinloleng)
 - [Ebenezer Akhonya](https://github.com/Itsfoss0)
 - [Sujit Akulwar](https://github.com/SujitAkulwar)
 - [Olaoluwa Ajanaku](https://github.com/0laolu)
@@ -1456,6 +1466,7 @@ Mac McHam
 - [Zaid Kaladia] ([https://github.com/zaidkaladia](https://github.com/zaidkaladia))
 - [sussyamogus5](https://github.com/sussyamogus5)
 - [André Lucas C. da Silva](https://github.com/AndreLucas9310)
+- [Dane Weickert](https://github.com/weickertdane)
 - [secondary-smiles](https://github.com/secondary-smiles)
 - [Steve Behm](https://github.com/SteveBehm)
 - [Abhay](https://github.com/abhay1704)
@@ -1791,6 +1802,7 @@ Mac McHam
 - [Maxwell Voorhes] (https://github.com/mvoorhes)
 - [Dut] (https://github.com/Dut-git)
 - [nagash93] (https://github.com/nagash93)
+- [Ajax](https://github.com)
 - [AnojKJayan] (https://github.com/Anojlex)
 - [Baroloker] (https://github.com/Baroloker)
 - [Anuoluwapo]
@@ -1882,4 +1894,6 @@ Mac McHam
 -[Nand Kishore Singh](https://github.com/NandEnigmaCode/NandEnigmaCode.git)
 - [jsj8051](https://github.com/jsj8051)
 - [Frank](https://github.com/Frank40790)
+- [Lillyann](https://github.com/lcelisse)
+- [Abdourahmane Jalloh](https://github.com/aradradev)
 
